@@ -1,5 +1,0 @@
-This is the new file
-to check the new update 
-we get on the local repo
-or we can say the changes we done on the romote location
-can come into the centralize repo or local repo by cloning...
